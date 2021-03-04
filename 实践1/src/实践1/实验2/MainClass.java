@@ -8,6 +8,5 @@ public class MainClass {
 		a.Print();
 		B b = new B();
 		b.Print();
-
 	}
 }
